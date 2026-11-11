@@ -3,7 +3,7 @@
   "tz": "Africa/Cairo",
   "classNo": 27,
   "people": [
-    { "name": "Eyad Taha",        "birthday": "" },
+    { "name": "Eyad Taha",        "birthday": "12-11" },
     { "name": "Sodfa Mohamed",    "birthday": "" },
     { "name": "Fajr Mohamed",     "birthday": "" },
     { "name": "Jamila Amr",       "birthday": "" },
